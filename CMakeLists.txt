@@ -1,1 +1,1 @@
-add_executive(test laba.cpp)
+add_executive(test Laba.cpp)
